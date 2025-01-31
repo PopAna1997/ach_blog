@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ach.Blog.BE.props" />
+</Project>

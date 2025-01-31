@@ -1,0 +1,6 @@
+@Ach.Blog.BE_HostAddress = http://localhost:5198
+
+GET {{Ach.Blog.BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
